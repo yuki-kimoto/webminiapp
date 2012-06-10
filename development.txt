@@ -1,0 +1,5 @@
+Creat tar ball
+  
+  APP_NAME=webminiapp
+  VERSION=0.01
+  git archive --format=tar --prefix=$APP_NAME-$VERSION/ v$VERSION | gzip > $APP_NAME-$VERSION.tar.gz
