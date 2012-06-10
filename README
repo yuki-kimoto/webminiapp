@@ -1,0 +1,14 @@
+webminiapp
+
+  Minimal Mojolicious web application
+
+  Start
+  
+      ./webminiapp
+      
+    Application start with port 80.
+
+  Stop
+  
+      ./webminiapp --stop
+
