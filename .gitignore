@@ -15,8 +15,6 @@ log/*
 !log/.gitignore
 db/*
 !db/.gitignore
-extlib/*
-!extlib/.gitignore
 script/hypnotoad.pid
 !public/.gitignore
 script/hypnotoad.pid
