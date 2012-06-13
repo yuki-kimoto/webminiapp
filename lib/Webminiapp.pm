@@ -7,8 +7,6 @@ our $VERSION = '0.01';
 sub startup {
   my $self = shift;
   
-  $self->plugin('Config');
-
   # Documentation browser under "/perldoc"
   $self->plugin('PODRenderer');
 
